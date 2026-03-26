@@ -1,0 +1,9 @@
+{
+  "prompt": "A Japanese Edo-period ukiyo-e woodblock print illustration, c. 18th Century. A massive, powerful tsunami wave dominates the dynamic asymmetrical composition, curving from the left. In the immediate foreground on the rocky shore (right), a large, determined fisherman in a traditional indigo and ochre coat holds a brightly glowing, indigo-red powerful fishing hook that is snagging and defining the shape of the main tsunami peak (the prediction). The entire scene uses thick black woodblock outlines defining all forms, flat color fields, no photographic shading, relying on unmodulated color blocks (indigo, ochre, muted tones). Background shore (mid-ground), slightly out of focus and smaller, two other fishermen have small, broken, weak hooks missing the wave completely and tangling in shore foam. Mount Fuji is a subtle distant shape obscured by the wave. A small decorative cartouche containing stylized Japanese characters (Feature Importance) with no labels within the main scene. Visible woodgrain texture. --ar 16:9 --v 6.1 --stylize 300 --style ukiyo-e",
+  "model": "Gemini 3 Pro Image (Nano Banana Pro)",
+  "concept": "feature importance",
+  "tradition_name": "Japanese Edo-period woodblock prints / ukiyo-e",
+  "tradition_period": "c. 18th Century",
+  "tradition_approach": "targeted flat areas of indigo and ochre color, thick structural woodblock outlines, asymmetrical dynamic composition prioritizing structure, and symbolic predictive influence visualization, strictly avoiding photographic shading.",
+  "publish_email": true
+}
