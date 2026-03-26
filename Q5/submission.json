@@ -1,0 +1,8 @@
+{
+  "prompt": "A cinematic, wide-angle interior shot of a massive, brutalist concrete room with an oppressive, dark ceiling. Falling from the darkness are thousands of brightly colored, traditional paper kites, their strings cleanly severed. As the kites hit the cold floor, they lose their color, piling up into a massive, monochromatic gray mountain of crumpled paper. A single, vibrant red kite remains suspended near the ceiling, its string slowly fraying. Melancholic atmosphere, dramatic volumetric lighting, hyper-realistic textures.",
+  "model": "Gemini 3 Flash Image (Nano Banana 2)",
+  "dataset_name": "UNICEF: Humanitarian Action for Children - State of Palestine",
+  "dataset_url": "https://www.unicef.org/appeals/state-of-palestine",
+  "insight": "The staggering loss of young lives extinguishes the future of a people, transforming symbols of childhood freedom into a heavy, colorless monument of interrupted potential.",
+  "publish_email": true
+}
