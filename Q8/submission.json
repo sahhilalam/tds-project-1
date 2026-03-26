@@ -1,0 +1,6 @@
+{
+  "prompt": "A composed diptych, split vertically. LEFT PANEL: Hyper-macro, high-resolution close-up photograph of natural sandstone strata with a textured rock face. Every visible individual fissure, crystalline alignment, striation, and water-worn line on multiple rocks are slanting sharply and pointing UP from bottom-left to top-right. Golden hour light highlighting fine textures. RIGHT PANEL: A massive, sweeping wide-angle aerial landscape photograph of the entire vast mountain range that contains that rock face, with moody, dramatic volumetric lighting and sweeping clouds. The combined global jagged ridge line and the vast visual flow of the geological formation are slanting sharply and pointing DOWN from top-left to bottom-right. The texture of the sandstone is consistent across both panels. No text, numbers, formulas, charts. --ar 16:9 --v 6.1 --stylize 300 --style macro-landscape",
+  "model": "Gemini 3 Pro Image (Nano Banana Pro)",
+  "paradox": "simpson's paradox",
+  "visual_logic": "Left panel: close-up where individual rock striations slant upward. Right panel: wide-angle view of the whole mountain range where the combined ridge-line slants downward, showing trend reversal upon combination."
+}
