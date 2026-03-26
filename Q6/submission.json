@@ -1,0 +1,6 @@
+{
+  "prompt": "A cinematic, low-angle photograph captured with a shallow depth of field inside a minimalist art gallery. The subject is a dark carved wooden mannequin wearing a textured wool suit. The mannequin is contorted into a bizarre, extremely awkward and stationary posture: sitting on a concrete plinth, bent double, holding a large river stone against its right knee, while its left leg is crossed strangely behind it. The figure and suit fabric are physically molded and rigidified around this exact, contorted stance. Every wrinkle, crease, and contour is permanent, matching the 'noise' of the bizarre pose. Stitches are pulled taut around the joints, visualizing the inability to move or generalize back to a standard upright position. Volumetric lighting from spotlights.",
+  "model": "Gemini 3 Pro Image (Nano Banana Pro)",
+  "concept": "overfitting",
+  "metaphor": "A carved figure rigidified into a bizarre contortion, visualizing a model that has learned specific training noise so perfectly it cannot move into any general pose."
+}
